@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ShannaraTP/ShannaraTP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Shannara Taylor Parkins - @ShannaraTP
+
+Hi, I am Shannara and I work as a postdoctoral researcher at the Novo Nordisk Foundation Center for Biosustainability (DTU Biosustain), where I focus on the development of microbial cell factories for biosustainable production of industrially relevant compounds. I apply my expertise in proteomics and Bayesian metabolic modelling to both experimental and computational work in Escherichia coli, using cutting-edge techniques and tools. To tackle today’s challenges, I am passionate about using biological data combined with data science to provide solutions and I aim to contribute to this field with my research and data analysis skills.
+
+## Get in touch on [Linkedin](www.linkedin.com/in/shannara-kayleigh-taylor-parkins-723062304)
+
+
